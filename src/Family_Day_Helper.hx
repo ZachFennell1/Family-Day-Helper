@@ -116,6 +116,6 @@ class Family_Day_Helper extends hxd.App {
 	}
 
 	static function main() {
-		new Rooster();
+		new Family_Day_Helper();
 	}
 }

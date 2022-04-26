@@ -2,5 +2,5 @@
 -lib heaps
 -lib hlsdl
 -lib Random
--hl out/main.c
+-hl hello.hl
 -main Family_Day_Helper
